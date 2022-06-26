@@ -100,7 +100,7 @@
     "noblox": "^4.8.5",
     "noblox.js": "^4.8.5",
     "node": "^16.1.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "node-notifier": "^10.0.0",
     "node-petname": "^1.0.1",
     "node-superfetch": "^0.2.3",
