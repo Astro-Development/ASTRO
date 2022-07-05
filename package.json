@@ -22,7 +22,7 @@
     "email": "nwoodmanhilts@gmail.com"
   },
   "dependencies": {
-    "@discordjs/opus": "^0.5.3",
+    "@discordjs/opus": "^0.8.0",
     "@replit/database": "^2.0.1",
     "ascii-table": "0.0.9",
     "async": "^3.2.0",
